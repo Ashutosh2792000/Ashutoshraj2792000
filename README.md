@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Kumar Raj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh2792000&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh2792000" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutosh2792000" alt="ashutosh2792000" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/https://x.com/ashutoshraj001?t=viuo5p0dqeskpp3raxlmia&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/ashutoshraj001?t=viuo5p0dqeskpp3raxlmia&s=09?logo=twitter&style=for-the-badge" alt="https://x.com/ashutoshraj001?t=viuo5p0dqeskpp3raxlmia&s=09" /></a> </p>
+![image](https://github.com/Ashutosh2792000/Ashutoshraj2792000/assets/122087921/1b5105e2-ae27-4d43-aa14-0aff4df1de4a)
 
 - 🔭 I’m currently working on **CODE DARSHAN**
 
